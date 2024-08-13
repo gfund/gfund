@@ -2,6 +2,6 @@
 
 Welcome to my profile
 
-![Beach Photo](beach.jpg)
+![Beach Photo](beachdriveway.jpg)
 
 
